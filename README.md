@@ -45,6 +45,13 @@ Some of the datatypes are
           True
           >>>5 not in x
           False
+7)Bitwise Operator: 
+               ->Complement(~)
+               ->And(&)
+               ->or(|)
+               ->Xor(^)
+               ->Left Shift(<<)
+               ->Right Shift(>>)
           
 
        
